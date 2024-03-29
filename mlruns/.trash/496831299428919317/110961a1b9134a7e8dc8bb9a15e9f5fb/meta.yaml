@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/1%20Learning/mlflow/mlruns/496831299428919317/110961a1b9134a7e8dc8bb9a15e9f5fb/artifacts
+deleted_time: 1711695180368
+end_time: 1711695113203
+entry_point_name: ''
+experiment_id: '496831299428919317'
+lifecycle_stage: deleted
+run_id: 110961a1b9134a7e8dc8bb9a15e9f5fb
+run_name: testing
+run_uuid: 110961a1b9134a7e8dc8bb9a15e9f5fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711695113167
+status: 3
+tags: []
+user_id: Yogesh.Rai
