@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/1 Learning/mlflow/testing_mlflow1_artifacts/4319b7c757914ade87da24a1f0cdfa04/artifacts
+end_time: 1711785513460
+entry_point_name: ''
+experiment_id: '671751607845337008'
+lifecycle_stage: active
+run_id: 4319b7c757914ade87da24a1f0cdfa04
+run_name: logging images
+run_uuid: 4319b7c757914ade87da24a1f0cdfa04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711785511772
+status: 3
+tags: []
+user_id: Yogesh.Rai
