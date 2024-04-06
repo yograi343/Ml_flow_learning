@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/1 Learning/mlflow/nested_run_artifacts/a377e3f25d2c4b02b556c1027c256b8c/artifacts
+end_time: 1712393341719
+entry_point_name: ''
+experiment_id: '821967203569743853'
+lifecycle_stage: active
+run_id: a377e3f25d2c4b02b556c1027c256b8c
+run_name: parent
+run_uuid: a377e3f25d2c4b02b556c1027c256b8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712393341239
+status: 3
+tags: []
+user_id: Yogesh.Rai

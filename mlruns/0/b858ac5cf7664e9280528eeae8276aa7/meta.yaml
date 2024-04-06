@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/1%20Learning/mlflow/mlruns/0/b858ac5cf7664e9280528eeae8276aa7/artifacts
+end_time: 1712393421037
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b858ac5cf7664e9280528eeae8276aa7
+run_name: child1
+run_uuid: b858ac5cf7664e9280528eeae8276aa7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712393420779
+status: 3
+tags: []
+user_id: Yogesh.Rai
